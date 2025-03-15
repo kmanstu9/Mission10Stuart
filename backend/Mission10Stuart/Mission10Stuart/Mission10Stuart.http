@@ -1,0 +1,6 @@
+@Mission10Stuart_HostAddress = http://localhost:5163
+
+GET {{Mission10Stuart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
